@@ -10,4 +10,4 @@ test 6 6 6
  sca 2
  sca 3 3 3
  sca 4  
- fg
+ fg 2
