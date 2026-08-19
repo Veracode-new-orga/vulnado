@@ -12,4 +12,5 @@ test 6 6 6
  sca 4
  sca 5
  sca 6
+ sca 7
  
